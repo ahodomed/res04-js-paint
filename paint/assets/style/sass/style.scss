@@ -1,0 +1,27 @@
+@import "libs/_reset.scss";
+main{
+    display:grid;
+    grid-template-rows: repeat(10,1fr);
+    height:100VH;
+
+
+            div{
+            display:grid;
+            border:1px dashed black;
+            grid-template-columns: repeat(10,1fr);
+            // grid:start;
+        }
+        
+        // .cell{
+                 
+                 
+            
+        // }
+        
+        
+        // .ligne{
+            
+            
+            
+        // }
+}
